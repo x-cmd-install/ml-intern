@@ -1,0 +1,61 @@
+about:
+  description: 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+  license: Apache-2.0
+  homepage: 
+  head: 550a209
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-03T04:12:56Z
+timeline:
+  created: 2025-10-30
+  lastCommit: 2026-06-18
+  lastRelease: ?
+popularity:
+  star: 10763
+  watcher: 46
+  fork: 1172
+  release: 0
+  contributor: 23
+  pullRequest: 134
+  issue: 56
+language:
+  Python: 1646222
+  TypeScript: 362252
+  Dockerfile: 1326
+  JavaScript: 734
+  HTML: 734
+  Shell: 580
+totalLine: 2011848
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 28
+    openPR: 19
+    closedIssue: 2
+    openIssue: 6
+    commit: 20
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 139
+    openPR: 36
+    closedIssue: 23
+    openIssue: 32
+    commit: 272
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 164
+    openPR: 36
+    closedIssue: 24
+    openIssue: 32
+    commit: 454
