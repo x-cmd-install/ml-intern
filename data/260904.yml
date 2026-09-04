@@ -7,7 +7,7 @@ about:
   head: 550a209
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:25:38Z
+  collectedAt: 2026-09-04T21:11:05Z
 timeline:
   created: 2025-10-30
   lastCommit: 2026-06-18
@@ -85,5 +85,73 @@ total:
   openIssue: 32
   commit: 490
 ---
+path: /home/runner/.x-repo/github.com/huggingface/ml-intern
+collectedAt: 2026-09-04T21:11:07Z
+loc:
+  Python:
+    code: 38916
+    comments: 1302
+    blanks: 6683
+    files: 132
+  Tsx:
+    code: 5906
+    comments: 194
+    blanks: 385
+    files: 20
+  Json:
+    code: 5764
+    comments: 0
+    blanks: 0
+    files: 5
+  TypeScript:
+    code: 3208
+    comments: 391
+    blanks: 391
+    files: 21
+  Yaml:
+    code: 727
+    comments: 42
+    blanks: 140
+    files: 3
+  Toml:
+    code: 57
+    comments: 15
+    blanks: 10
+    files: 1
+  Dockerfile:
+    code: 30
+    comments: 15
+    blanks: 14
+    files: 1
+  JavaScript:
+    code: 27
+    comments: 0
+    blanks: 1
+    files: 1
+  Html:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 6
+    comments: 7
+    blanks: 2
+    files: 1
+  Svg:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 408
+    blanks: 129
+    files: 4
+total:
+  code: 54744
+  comments: 2376
+  blanks: 7755
+  files: 191
 ---
 
