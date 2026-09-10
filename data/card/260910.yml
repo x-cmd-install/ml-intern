@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:30:59Z
+  collectedAt: 2026-09-10T23:48:16Z
 timeline:
   created: 2025-10-30
   lastCommit: 2026-09-09
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 10802
+  star: 10810
   watcher: 47
-  fork: 1176
+  fork: 1177
   release: 0
   contributor: 22
   pullRequest: 300
@@ -88,7 +88,7 @@ total:
   commit: 491
 ---
 path: /home/runner/.x-repo/github.com/huggingface/ml-intern
-collectedAt: 2026-09-10T17:31:02Z
+collectedAt: 2026-09-10T23:48:18Z
 loc:
   Python:
     code: 38916
