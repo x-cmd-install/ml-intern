@@ -1,24 +1,60 @@
 # ml-intern
 
+[中文版本](./README.cn.md)
+
 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 
-- **Upstream**: <https://github.com/huggingface/ml-intern>
-- **Homepage**: <>
-- **Latest release**: `` (n/a)
-- **Last commit**: 2026-09-09
-- **License**: Apache-2.0
-- **Stars**: 10782 · **Forks**: 1174 · **Open issues**: 56 · **Contributors**: 22
+![ml-intern](https://repo.x-cmd.io/ml-intern.svg)
 
-## Installation
+## Install
 
 ```sh
 x install ml-intern
 ```
 
-See <https://x-cmd.com/install/ml-intern> for details.
+## Code insight
 
-## Data
+Total: **54,660** lines of code across **181** files in the top 5 languages.
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 38,916 | 1,302 | 6,683 | 132 |
+| Tsx | 5,906 | 194 | 385 | 20 |
+| Json | 5,764 | 0 | 0 | 5 |
+| TypeScript | 3,208 | 391 | 391 | 21 |
+| Yaml | 727 | 42 | 140 | 3 |
 
-_Last regenerated: 2026-09-09T19:52:14Z._
+## Source
+
+- **Upstream**: <https://github.com/huggingface/ml-intern>
+- **License**: Apache-2.0
+
+## Popularity
+
+- **Stars**: 10,810 · **Forks**: 1,177 · **Open issues**: 56 · **Contributors**: 22
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 165 · **Open PRs**: 36 · **Closed issues**: 24 · **Open issues**: 32 · **Commits**: 491
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 0 | 1 | 5 | 0 | 0 | 1 |
+| 90d | 2026-06-12 | 0 | 6 | 15 | 2 | 6 | 6 |
+| last180d | 2026-03-14 | 0 | 140 | 36 | 23 | 32 | 259 |
+| 360d | 2025-09-15 | 0 | 165 | 36 | 24 | 32 | 455 |
+| last720d | 2024-09-20 | 0 | 165 | 36 | 24 | 32 | 491 |
+
+## Improve this data
+
+Install metadata for ml-intern lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ml-intern` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/ml-intern.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:48:21Z._
