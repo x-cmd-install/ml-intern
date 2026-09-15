@@ -2,7 +2,9 @@
 
 [中文版本](./README.cn.md)
 
-🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+> ⚠️ This project is archived.
+
+Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 
 ![ml-intern](https://repo.x-cmd.io/ml-intern.svg)
 
@@ -14,12 +16,12 @@ x install ml-intern
 
 ## Code insight
 
-Total: **54,660** lines of code across **181** files in the top 5 languages.
+Total: **54,836** lines of code across **184** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 38,916 | 1,302 | 6,683 | 132 |
-| Tsx | 5,906 | 194 | 385 | 20 |
+| Python | 38,982 | 1,305 | 6,706 | 134 |
+| Tsx | 6,014 | 192 | 390 | 21 |
 | Json | 5,764 | 0 | 0 | 5 |
 | TypeScript | 3,208 | 391 | 391 | 21 |
 | Yaml | 727 | 42 | 140 | 3 |
@@ -27,26 +29,27 @@ Total: **54,660** lines of code across **181** files in the top 5 languages.
 ## Source
 
 - **Upstream**: <https://github.com/huggingface/ml-intern>
+- **Homepage**: <https://huggingface.co/chat/>
 - **License**: Apache-2.0
 
 ## Popularity
 
-- **Stars**: 10,825 · **Forks**: 1,181 · **Open issues**: 56 · **Contributors**: 22
+- **Stars**: 10,827 · **Forks**: 1,183 · **Open issues**: 56 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 165 · **Open PRs**: 36 · **Closed issues**: 24 · **Open issues**: 32 · **Commits**: 491
+- **Releases**: 0 · **Merged PRs**: 167 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 0 · **Commits**: 493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-07-16 | 0 | 1 | 4 | 0 | 0 | 1 |
-| 90d | 2026-06-16 | 0 | 6 | 10 | 2 | 5 | 1 |
-| last180d | 2026-03-18 | 0 | 140 | 36 | 23 | 32 | 255 |
-| 360d | 2025-09-19 | 0 | 165 | 36 | 24 | 32 | 455 |
-| last720d | 2024-09-24 | 0 | 165 | 36 | 24 | 32 | 491 |
+| 30d | 2026-08-16 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-17 | 0 | 3 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-17 | 0 | 4 | 0 | 6 | 0 | 3 |
+| last180d | 2026-03-19 | 0 | 142 | 0 | 55 | 0 | 257 |
+| 360d | 2025-09-20 | 0 | 167 | 0 | 56 | 0 | 457 |
+| last720d | 2024-09-25 | 0 | 167 | 0 | 56 | 0 | 493 |
 
 ## Improve this data
 
@@ -57,4 +60,4 @@ Install metadata for ml-intern lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:07:52Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:08:18Z._

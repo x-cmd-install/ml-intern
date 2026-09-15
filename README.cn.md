@@ -2,7 +2,9 @@
 
 [English version](./README.md)
 
-🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+> ⚠️ 此项目已归档（archived）。
+
+Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 
 ![ml-intern](https://repo.x-cmd.io/ml-intern.svg?lang=zh)
 
@@ -14,12 +16,12 @@ x install ml-intern
 
 ## 代码洞察
 
-合计: **54,660** 行代码（覆盖前 5 种语言、共 **181** 个文件）。
+合计: **54,836** 行代码（覆盖前 5 种语言、共 **184** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 38,916 | 1,302 | 6,683 | 132 |
-| Tsx | 5,906 | 194 | 385 | 20 |
+| Python | 38,982 | 1,305 | 6,706 | 134 |
+| Tsx | 6,014 | 192 | 390 | 21 |
 | Json | 5,764 | 0 | 0 | 5 |
 | TypeScript | 3,208 | 391 | 391 | 21 |
 | Yaml | 727 | 42 | 140 | 3 |
@@ -27,26 +29,27 @@ x install ml-intern
 ## 源代码
 
 - **上游仓库**: <https://github.com/huggingface/ml-intern>
+- **官网**: <https://huggingface.co/chat/>
 - **许可证**: Apache-2.0
 
 ## 流行度
 
-- **Star**: 10,825 · **Fork**: 1,181 · **开放 issue**: 56 · **贡献者**: 22
+- **Star**: 10,827 · **Fork**: 1,183 · **开放 issue**: 56 · **贡献者**: 22
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 165 · **开放 PR**: 36 · **已关闭 issue**: 24 · **开放 issue**: 32 · **提交数**: 491
+- **发布数**: 0 · **已合并 PR**: 167 · **开放 PR**: 0 · **已关闭 issue**: 56 · **开放 issue**: 0 · **提交数**: 493
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-07-16 | 0 | 1 | 4 | 0 | 0 | 1 |
-| 90d | 2026-06-16 | 0 | 6 | 10 | 2 | 5 | 1 |
-| last180d | 2026-03-18 | 0 | 140 | 36 | 23 | 32 | 255 |
-| 360d | 2025-09-19 | 0 | 165 | 36 | 24 | 32 | 455 |
-| last720d | 2024-09-24 | 0 | 165 | 36 | 24 | 32 | 491 |
+| 30d | 2026-08-16 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-17 | 0 | 3 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-17 | 0 | 4 | 0 | 6 | 0 | 3 |
+| last180d | 2026-03-19 | 0 | 142 | 0 | 55 | 0 | 257 |
+| 360d | 2025-09-20 | 0 | 167 | 0 | 56 | 0 | 457 |
+| last720d | 2024-09-25 | 0 | 167 | 0 | 56 | 0 | 493 |
 
 ## 改进这些数据
 
@@ -57,4 +60,4 @@ ml-intern 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T06:07:53Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T06:08:18Z._
