@@ -6,7 +6,7 @@
 
 Archived — ML Intern is no longer maintained. Continue with HuggingChat.
 
-![ml-intern](https://repo.x-cmd.io/ml-intern.svg)
+[![x-cmd/install — ml-intern Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ml-intern.svg)](https://x-cmd.com/install/ml-intern)
 
 ## Install
 
@@ -34,7 +34,7 @@ Total: **54,836** lines of code across **184** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,823 · **Forks**: 1,182 · **Open issues**: 56 · **Contributors**: 22
+- **Stars**: 10,821 · **Forks**: 1,184 · **Open issues**: 56 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -44,12 +44,12 @@ Total: **54,836** lines of code across **184** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-20 | 0 | 3 | 0 | 0 | 0 | 3 |
-| 90d | 2026-06-20 | 0 | 3 | 0 | 4 | 0 | 3 |
-| last180d | 2026-03-22 | 0 | 142 | 0 | 55 | 0 | 257 |
-| 360d | 2025-09-23 | 0 | 167 | 0 | 56 | 0 | 457 |
-| last720d | 2024-09-28 | 0 | 167 | 0 | 56 | 0 | 493 |
+| 30d | 2026-08-21 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-22 | 0 | 3 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-22 | 0 | 3 | 0 | 2 | 0 | 3 |
+| last180d | 2026-03-24 | 0 | 142 | 0 | 55 | 0 | 246 |
+| 360d | 2025-09-25 | 0 | 167 | 0 | 56 | 0 | 457 |
+| last720d | 2024-09-30 | 0 | 167 | 0 | 56 | 0 | 493 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for ml-intern lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:01:21Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:03:41Z._
