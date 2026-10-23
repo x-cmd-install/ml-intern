@@ -38,18 +38,18 @@ Total: **54,836** lines of code across **184** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 168 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 0 · **Commits**: 494
+- **Releases**: 0 · **Merged PRs**: 168 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 0 · **Commits**: 495
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-23 | 0 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-07-24 | 0 | 4 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-25 | 0 | 111 | 0 | 33 | 0 | 93 |
-| 360d | 2025-10-27 | 0 | 168 | 0 | 56 | 0 | 455 |
-| last720d | 2024-11-01 | 0 | 168 | 0 | 56 | 0 | 494 |
+| 30d | 2026-09-23 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-24 | 0 | 4 | 0 | 0 | 0 | 5 |
+| 90d | 2026-07-25 | 0 | 4 | 0 | 0 | 0 | 5 |
+| last180d | 2026-04-26 | 0 | 106 | 0 | 33 | 0 | 94 |
+| 360d | 2025-10-28 | 0 | 168 | 0 | 56 | 0 | 456 |
+| last720d | 2024-11-02 | 0 | 168 | 0 | 56 | 0 | 495 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for ml-intern lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:39:59Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:41:53Z._
