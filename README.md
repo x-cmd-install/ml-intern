@@ -34,7 +34,7 @@ Total: **54,836** lines of code across **184** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,785 · **Forks**: 1,194 · **Open issues**: 56 · **Contributors**: 22
+- **Stars**: 10,783 · **Forks**: 1,194 · **Open issues**: 56 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -44,12 +44,12 @@ Total: **54,836** lines of code across **184** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-09 | 0 | 3 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-10 | 0 | 4 | 0 | 0 | 0 | 5 |
-| last180d | 2026-05-12 | 0 | 47 | 0 | 13 | 0 | 49 |
-| 360d | 2025-11-13 | 0 | 168 | 0 | 56 | 0 | 448 |
-| last720d | 2024-11-18 | 0 | 168 | 0 | 56 | 0 | 495 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-11 | 0 | 3 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-12 | 0 | 4 | 0 | 0 | 0 | 5 |
+| last180d | 2026-05-14 | 0 | 47 | 0 | 12 | 0 | 48 |
+| 360d | 2025-11-15 | 0 | 168 | 0 | 56 | 0 | 442 |
+| last720d | 2024-11-20 | 0 | 168 | 0 | 56 | 0 | 495 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for ml-intern lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:54:49Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:19:40Z._
